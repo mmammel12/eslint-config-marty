@@ -14,5 +14,6 @@ module.exports = {
         'no-await-in-loop': 'off',
         'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
         'no-underscore-dangle': ['error', { allow: ['_id'] }],
+        'react/react-in-jsx-scope': 'off'
     },
 };
